@@ -3,23 +3,18 @@
 I'm a Frontend Developer. I'm passionate about technologies and love to learn new things.
 
 
-<img src="https://img.shields.io/badge/- kartz2dev@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/- devkart.official@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
 
 ## 🧰 Tech Stack
 
 Here are a few things I've picked up along my learning journey.
 
 - Programming languages : <br />
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=00ADD8)
-
-
-- Backend : <br />
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Gin Gonic](https://img.shields.io/badge/-Gin%20Gonic-05122A?style=flat&logo=go&logoColor=00ADD8)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=FFFFFF)
+![ReactJS](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
+![NextJS](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
 
 
 - Databases <br />
@@ -42,16 +37,16 @@ Here are a few things I've picked up along my learning journey.
 ## 📊 Github Stats
 
 <div align="center"> 
-  <a href="https://github.com/samarth3301#gh-dark-mode-only">
+  <a href="https://github.com/dev-kart#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=samarth3301&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=dev-kart&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
       alt="My Github stats"
       height="370"
     />
   </a>
-  <a href="https://github.com/samarth3301#gh-dark-mode-only">
+  <a href="https://github.com/dev-kart#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=samarth3301&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=dev-kart&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
       height="370"
     />
