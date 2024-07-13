@@ -2,36 +2,34 @@
 
 I'm a Frontend Developer. I'm passionate about technologies and love to learn new things.
 
-
 <img src="https://img.shields.io/badge/- devkart.official@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
 
 ## 🧰 Tech Stack
 
 Here are a few things I've picked up along my learning journey.
 
+- Designing Tools : <br />
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
+
 - Programming languages : <br />
-![HTML](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![ReactJS](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
-![NextJS](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFFFFF)
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![TailwindCss](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 
 
-- Databases <br />
+- Databases : <br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&logoColor=FFFFFF)
 
 
-- ORMs <br />
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma&logoColor=FFFFFF)
-![Tortoise ORM](https://img.shields.io/badge/-Tortoise%20ORM-05122A?style=flat&logo=tortoise-orm&logoColor=FFFFFF)
-
-
 - Tool : <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 
 
 ## 📊 Github Stats
