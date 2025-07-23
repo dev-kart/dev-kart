@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/info@devkart.me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="https://www.devkart.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-devkart.me-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/devkart.me-0D1117?style=for-the-badge"/>
   </a>
 </p>
 
