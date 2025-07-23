@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./Screenshot 2025-07-19 005707.png" alt="Devkart Logo" width="500" height="300">
   <h1 align="center">Hey there, I'm Kartikey! 👋</h1>
   <p align="center">
     A passionate <strong>Fullstack Developer</strong> crafting robust and engaging web experiences.
