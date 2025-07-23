@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Screenshot 2025-07-19 005707.png" alt="Devkart Logo" width="100" height="100">
+<img src="./devkart.png" alt="Devkart Logo" width="500" height="300">
 <h1 align="center">Hey there, I'm Kartikey! 👋</h1>
 <p align="center">
 A passionate <strong>Fullstack Developer</strong> crafting robust and engaging web experiences.
@@ -83,7 +83,7 @@ Advanced React Concepts: Mastering performance optimization and state management
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about tech!
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/devkart/" target="_blank">
+<a href="https://www.linkedin.com/in/devkart/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
 <a href="https://www.google.com/search?q=https://x.com/dev_kart" target="_blank">
