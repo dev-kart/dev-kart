@@ -67,15 +67,6 @@ I'm a dedicated **Fullstack Developer** with a knack for turning ideas into func
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-kart&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-kart&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180">
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
